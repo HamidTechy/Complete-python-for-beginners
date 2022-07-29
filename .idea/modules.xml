@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../codewithharry/.idea/codewithharry.iml" filepath="$PROJECT_DIR$/../codewithharry/.idea/codewithharry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../harryfromchptr5/.idea/harryfromchptr5.iml" filepath="$PROJECT_DIR$/../harryfromchptr5/.idea/harryfromchptr5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject bismillah.iml" filepath="$PROJECT_DIR$/.idea/pythonProject bismillah.iml" />
+    </modules>
+  </component>
+</project>
